@@ -1,1 +1,1 @@
-An infinite loop is a programmer’s worst nightmare.If (code == ugly) { refactor(); }harbor-repo.txt
+The best code is no code at all.An infinite loop is a programmer’s worst nightmare.If (code == ugly) { refactor(); }harbor-repo.txt
