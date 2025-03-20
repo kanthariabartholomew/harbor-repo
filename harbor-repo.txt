@@ -1,1 +1,1 @@
-If (code == ugly) { refactor(); }harbor-repo.txt
+An infinite loop is a programmer’s worst nightmare.If (code == ugly) { refactor(); }harbor-repo.txt
