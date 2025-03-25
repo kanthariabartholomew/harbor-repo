@@ -1,1 +1,1 @@
-Error 404: Sleep not found.There are two types of people: those who understand binary, and those who don’t.The best code is no code at all.An infinite loop is a programmer’s worst nightmare.If (code == ugly) { refactor(); }harbor-repo.txt
+Documentation is like a love letter to your future self.Error 404: Sleep not found.There are two types of people: those who understand binary, and those who don’t.The best code is no code at all.An infinite loop is a programmer’s worst nightmare.If (code == ugly) { refactor(); }harbor-repo.txt
